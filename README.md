@@ -1,2 +1,2 @@
-# urban-compost
+# Urban Compost
 Great Transition Project
